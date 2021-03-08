@@ -1,0 +1,9 @@
+.country__details {
+  max-width: 45%;
+  margin: 50px auto;
+  display: block;
+}
+
+.country__details .img {
+  height: 350px;
+}
